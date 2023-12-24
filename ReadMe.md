@@ -77,10 +77,10 @@ The application runs on port 8081. You can access the API using the base URL:
 * Request Body:
 ```json
 {
-  "name": "John Doe",
-  "email": "john.doe@example.com",
+  "name": "Yash",
+  "email": "yash@example.com",
   "dateOfBirth": "1990-01-01",
-  "occupation": "SOFTWARE_ENGINEER"
+  "occupation": "DEVELOPER"
 }
 ```
 ### Error Handling
